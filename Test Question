@@ -1,3 +1,9 @@
+1. Write a function to create a 2-D List/Array with random integers between 0 to 100. T
+his function should take two arguments - numberOfRows and numberOfColumns and return 2D list.
+2. Write a function to sort the 2-D list based on column index keeping the rows intact.
+This function should take two arguments - 2D list created above and column Index and return sorted 2D list.
+
+
 import random
 def create2DList(numberOfRows, numberOfColumns):
   list = []
